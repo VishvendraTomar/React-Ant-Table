@@ -15,6 +15,7 @@ This project is a React application developed to fulfill the requirements of the
 6. **Routing:** Utilizes React Router for navigation between different views.
 7. **User Experience:** Designed with a user-friendly interface and intuitive interactions.
 8. **Responsive Design:** Adapts gracefully to various screen sizes and devices.
+9. **React Suspense:** Implements React Suspense to handle loading states and improve user experience during data fetching.
 
 ## Usage
 1. Clone the repository to your local machine.
